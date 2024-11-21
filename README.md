@@ -1,6 +1,10 @@
 # Thermistor-
 This repository is here to help you to know the temperature
 
+Shema:
+![image](https://github.com/user-attachments/assets/113c714e-505a-4d20-b8a2-3194c6232b40)
+
+
 CODE: 
 
 
